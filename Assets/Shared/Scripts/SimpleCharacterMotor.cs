@@ -73,4 +73,6 @@ public class SimpleCharacterMotor : MonoBehaviour
         finalMovement = Vector3.Lerp(finalMovement, movement, Time.deltaTime * movementAcceleration);
         controller.Move(finalMovement * Time.deltaTime);
     }
+   
+    
 }
