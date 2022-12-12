@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Shootable
   - Transition
+  - CinemachineTarget
+  - floorGrates
+  - floorConcrete
   layers:
   - Default
   - TransparentFX
