@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8f0970cc81bb562418ff3fea762b30b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Unfinished Scream
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b19b25df96a2bc43b5413873d04aa65, type: 3}
+  - {fileID: 12800000, guid: 91edcbc0d0be79f41b9e5a4147202d3d, type: 3}
+  - {fileID: 12800000, guid: 5ab565849636a574eac27eb86d1a822a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
