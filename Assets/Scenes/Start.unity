@@ -10143,7 +10143,7 @@ GameObject:
   - component: {fileID: 1466665760}
   m_Layer: 0
   m_Name: floor
-  m_TagString: Untagged
+  m_TagString: floorGrates
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13349,11 +13349,26 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Manhole","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Player","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Plane","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"concreteSounds","value":{"$content":[{"$content":3,"$type":"UnityEngine.Object"},{"$content":4,"$type":"UnityEngine.Object"},{"$content":5,"$type":"UnityEngine.Object"},{"$content":6,"$type":"UnityEngine.Object"},{"$content":7,"$type":"UnityEngine.Object"},{"$content":8,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"metalSounds","value":{"$content":[{"$content":9,"$type":"UnityEngine.Object"},{"$content":10,"$type":"UnityEngine.Object"},{"$content":11,"$type":"UnityEngine.Object"},{"$content":12,"$type":"UnityEngine.Object"},{"$content":13,"$type":"UnityEngine.Object"},{"$content":14,"$type":"UnityEngine.Object"},{"$content":15,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1790796481}
     - {fileID: 1858177890}
     - {fileID: 1856522662}
+    - {fileID: 8300000, guid: 90e3e142c2cdb1e4a85643fa7eb33e5a, type: 3}
+    - {fileID: 8300000, guid: 74321e8c563b51847972bf0caf26a90d, type: 3}
+    - {fileID: 8300000, guid: 162b5a40d9678a841b12629f03e80389, type: 3}
+    - {fileID: 8300000, guid: 18e74e499a5be3949aa51480a4e7b299, type: 3}
+    - {fileID: 8300000, guid: 84d1baf57b4fb40458e37180ea73c3f1, type: 3}
+    - {fileID: 8300000, guid: 0317f008556e30c41bf9b06435efee81, type: 3}
+    - {fileID: 8300000, guid: feed30a39500a8b4ebe580c8d3e04857, type: 3}
+    - {fileID: 8300000, guid: 9322c3abc424a2d4da1bd72aaf691c63, type: 3}
+    - {fileID: 8300000, guid: cad9e18c515f2aa4fa420ccb299c357a, type: 3}
+    - {fileID: 8300000, guid: 9430e956b0bfd954aab3446165f4f5de, type: 3}
+    - {fileID: 8300000, guid: 809a1e7db89bda148a3f5f928521b078, type: 3}
+    - {fileID: 8300000, guid: 50889b978a11e1648a23c7f5de4d81db, type: 3}
+    - {fileID: 8300000, guid: 73880ebbb94046d489f9122cd4d19835, type: 3}
 --- !u!114 &1858177905
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13466,28 +13481,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &1858177915
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1858177890}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"concreteSounds","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"},{"$content":3,"$type":"UnityEngine.Object"},{"$content":4,"$type":"UnityEngine.Object"},{"$content":5,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 8300000, guid: 90e3e142c2cdb1e4a85643fa7eb33e5a, type: 3}
-    - {fileID: 8300000, guid: 74321e8c563b51847972bf0caf26a90d, type: 3}
-    - {fileID: 8300000, guid: 162b5a40d9678a841b12629f03e80389, type: 3}
-    - {fileID: 8300000, guid: 18e74e499a5be3949aa51480a4e7b299, type: 3}
-    - {fileID: 8300000, guid: 84d1baf57b4fb40458e37180ea73c3f1, type: 3}
-    - {fileID: 8300000, guid: 0317f008556e30c41bf9b06435efee81, type: 3}
 --- !u!114 &1858177916
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17078,10 +17071,10 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3058299076286199459}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 1243836710279157664, guid: 3ec66dc695ac39b45a934eadede2b052, type: 3}
 --- !u!1 &5430759650999364446
@@ -17474,10 +17467,10 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5627679364367243922}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3706309331239683461, guid: 3ec66dc695ac39b45a934eadede2b052, type: 3}
 --- !u!4 &8157684240207827850
@@ -17658,10 +17651,10 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9089825010644006575}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -2651431041388923864, guid: 3ec66dc695ac39b45a934eadede2b052, type: 3}
 --- !u!1 &9205651554859648615
