@@ -14592,6 +14592,8 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"concreteSounds","value":{"$content":[{"$content":0,"$type":"UnityEngine.Object"},{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"},{"$content":3,"$type":"UnityEngine.Object"},{"$content":4,"$type":"UnityEngine.Object"},{"$content":5,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"metalSounds","value":{"$content":[{"$content":6,"$type":"UnityEngine.Object"},{"$content":7,"$type":"UnityEngine.Object"},{"$content":8,"$type":"UnityEngine.Object"},{"$content":9,"$type":"UnityEngine.Object"},{"$content":10,"$type":"UnityEngine.Object"},{"$content":11,"$type":"UnityEngine.Object"},{"$content":12,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"sparkSoundsLong","value":{"$content":[{"$content":13,"$type":"UnityEngine.Object"},{"$content":14,"$type":"UnityEngine.Object"},{"$content":15,"$type":"UnityEngine.Object"},{"$content":16,"$type":"UnityEngine.Object"},{"$content":17,"$type":"UnityEngine.Object"},{"$content":18,"$type":"UnityEngine.Object"},{"$content":19,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"sparkSoundsShort","value":{"$content":[{"$content":20,"$type":"UnityEngine.Object"},{"$content":21,"$type":"UnityEngine.Object"},{"$content":22,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 8300000, guid: 90e3e142c2cdb1e4a85643fa7eb33e5a, type: 3}
@@ -14607,6 +14609,16 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 809a1e7db89bda148a3f5f928521b078, type: 3}
     - {fileID: 8300000, guid: 50889b978a11e1648a23c7f5de4d81db, type: 3}
     - {fileID: 8300000, guid: 73880ebbb94046d489f9122cd4d19835, type: 3}
+    - {fileID: 8300000, guid: 5b17a93daf49323479f474bd56bea1e4, type: 3}
+    - {fileID: 8300000, guid: e7df3359f5f1cd0428f58bc22bd44301, type: 3}
+    - {fileID: 8300000, guid: 19b737a21f88fc24bb47bc6b22613efd, type: 3}
+    - {fileID: 8300000, guid: d87897873d3274c45ac50c419b0bf45e, type: 3}
+    - {fileID: 8300000, guid: 8b0ac88e9efea9340be3beba2b3916a4, type: 3}
+    - {fileID: 8300000, guid: 5f2a35dacda0fa948bdbcfe66bd85c64, type: 3}
+    - {fileID: 8300000, guid: 96546956dacacf54597ad7f4126b88af, type: 3}
+    - {fileID: 8300000, guid: 7424a4bc242ff374caaf175708542023, type: 3}
+    - {fileID: 8300000, guid: 9aec11acd9801fc48898b423e4d9adf7, type: 3}
+    - {fileID: 8300000, guid: 834b87413049d2541b63dad66fc6ba90, type: 3}
 --- !u!114 &1827448412
 MonoBehaviour:
   m_ObjectHideFlags: 0
