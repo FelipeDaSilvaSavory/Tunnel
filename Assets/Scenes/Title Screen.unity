@@ -16640,6 +16640,7 @@ GameObject:
   - component: {fileID: 114085834821074930}
   - component: {fileID: 114253242070658445}
   - component: {fileID: 114253242070658447}
+  - component: {fileID: 114253242070658448}
   m_Layer: 10
   m_Name: MainCamera
   m_TagString: MainCamera
@@ -16937,6 +16938,22 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 682982418}
+--- !u!114 &114253242070658448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1736671128761562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: f3995133c3ee55744b018263ddd38f71, type: 2}
 --- !u!33 &340667777287180015
 MeshFilter:
   m_ObjectHideFlags: 0
