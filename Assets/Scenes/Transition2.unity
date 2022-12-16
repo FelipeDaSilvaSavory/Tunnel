@@ -205,7 +205,7 @@ MonoBehaviour:
   m_text: "Xia Choi\n                                    \nFelipe Da Silva Savory\n\nXia
     Choi              \nPaul Muwanguzi\n\nFelipe Da Silva Savory\n\nFelipe Da Silva
     Savory\nXia Choi\n\nPaul Muwanguzi\nXia Choi\nFelipe Da Silva Savory\n\nXia Choi\nFelipe
-    Da Silva Savory\n                        \nElliot Dawes                              "
+    Da Silva Savory                        "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -840,7 +840,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Sound Effects\n           \nLighting        \n     \n3D Models\n\n\nAnimation\n\nScripting\n\n\nIdea
-    Generation\n\n\n\nLevel Design\n\n\nComposition"
+    Generation\n\n\n\nLevel Design"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
